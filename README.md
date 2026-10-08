@@ -1,4 +1,4 @@
-# COMP 484 HW4 - Creating Lists
+# COMP 484 HW4 - Creating Lists https://jakibugarin517-dev.github.io/comp484-hw4/
 
 Site navigation on all pages uses an unordered list (`ul`).
   The HTML timeline on `index.html` uses an ordered list (`ol`) because the entries follow a date order.
